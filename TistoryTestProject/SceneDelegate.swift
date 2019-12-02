@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  TistoryTestProject
 //
-//  Created by Lotte on 2019/12/01.
 //  Copyright © 2019 0ofKim. All rights reserved.
 //
 
